@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: About me
 sidebar_link: true
 ---
 
+![resume](../_images/resume.jpg)
+
 <p class="message">
- ![resume](../_images/resume.jpg)
+
 </p>
 
