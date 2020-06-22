@@ -5,6 +5,6 @@ sidebar_link: true
 ---
 
 <p class="message">
- ![resume](../_images/resume.webp)
+ ![resume](../_images/resume.jpg)
 </p>
 
