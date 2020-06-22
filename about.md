@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 ![profile](_images/profile.jpg)
-<p class="message">
+
 <!--<img src="_images/profile.jpg" alt="profile">-->
 <ul>
   <li>Name: JiHyeon-Lee</li>
@@ -27,4 +27,3 @@ sidebar_link: true
   <li>Adobe AfterEffects</li>
   <li>Adobe PrimierPro</li>
 </ul>
-</p>
