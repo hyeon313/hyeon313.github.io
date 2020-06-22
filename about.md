@@ -3,9 +3,9 @@ layout: page
 title: About
 sidebar_link: true
 ---
-# <img src="_images/profile.jpg" alt="profile">
+![profile](_images/profile.jpg)
 <p class="message">
-
+<!--<img src="_images/profile.jpg" alt="profile">-->
 <ul>
   <li>Name: JiHyeon-Lee</li>
   <li>Email: ice6723@naver.com</li>
@@ -28,4 +28,3 @@ sidebar_link: true
   <li>Adobe PrimierPro</li>
 </ul>
 </p>
-
