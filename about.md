@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About
 sidebar_link: true
 ---
 
@@ -8,5 +8,3 @@ sidebar_link: true
  ![resume](../_images/resume.webp)
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
