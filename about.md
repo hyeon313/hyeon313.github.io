@@ -12,7 +12,7 @@ sidebar_link: true
 ### Images
 
 ![placeholder](https://placehold.it/800x400 "Large example image")
-![profile](_images/profile.jpg)
+![profile](https://raw.githubusercontent.com/hyeon313/hyeon313.github.io/master/_images/profile.jpg)
 
   <img src="https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/profile.jpg">
 
