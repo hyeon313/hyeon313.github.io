@@ -5,7 +5,8 @@ sidebar_link: true
 ---
 ![profile](_images/profile.jpg)
 
-https://github.com/hyeon313.png
+
+![profile](https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/profile.jpg)
 
 <!--<img src="_images/profile.jpg" alt="profile">-->
 <ul>
