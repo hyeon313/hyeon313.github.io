@@ -5,7 +5,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hyeon
+title:            JiHyeon
 tagline:          'A Jekyll theme'
 description:      'This blog is a record of my work. Thank you'
 url:              'https://hyeon313.github.io'
