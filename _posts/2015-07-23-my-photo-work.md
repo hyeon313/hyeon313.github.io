@@ -1,8 +1,9 @@
 ---
 layout: post
 title: My Photo Work in 2015.7.23.
-excerpt_separator:  <!--more-->
 ---
+
+### Images
 
 ![2015-7-23_1](https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/2015/2015-7-23_1.JPG)
 
