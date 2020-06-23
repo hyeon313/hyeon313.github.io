@@ -18,7 +18,7 @@ sidebar_link: true
 
 
 <d1>
-  <dt>education</dt>
+  <dt>EDUCATION</dt>
     <dd>2016-present</dd>
     <dd>Kyungil university</dd>
   
