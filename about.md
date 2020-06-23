@@ -18,18 +18,22 @@ sidebar_link: true
   <li>github: https://github.com/hyeon313</li>
 </ul>
 
-<h1>education</h1>
-<ul>
-  <li>2016-present</li>
-  <li>Kyungil university</li>
-</ul>
-   
-<h1>SKILLS</h1>
-<ul>
-  <li>C++</li>
-  <li>Python</li>
-  <li>canon DSLR</li>
-  <li>Adobe Photoshop</li>
-  <li>Adobe AfterEffects</li>
-  <li>Adobe PrimierPro</li>
-</ul>
+* Name: JiHyeon-Lee
+* Email: ice6723@naver.com
+* github: https://github.com/hyeon313
+
+
+<d1>
+  <dt>education</dt>
+    <dd>2016-present</dd>
+    <dd>Kyungil university</dd>
+  
+  <dt>SKILLS</dt>
+    <dd>C++</dd>
+    <dd>Python</dd>
+    <dd>canon DSLR</dd>
+    <dd>Adobe Photoshop</dd>
+    <dd>Adobe AfterEffects</dd>
+    <dd>Adobe PrimierPro</dd>
+</d1>
+
