@@ -9,12 +9,8 @@ sidebar_link: true
 <!--<img src="_images/profile.jpg" alt="profile">-->
 <!--<img src="https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/profile.jpg">-->
 
-### Images
-
-![placeholder](https://placehold.it/800x400 "Large example image")
 ![profile](https://raw.githubusercontent.com/hyeon313/hyeon313.github.io/master/_images/profile.jpg)
 
-  <img src="https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/profile.jpg">
 
 * Name: JiHyeon-Lee
 * Email: ice6723@naver.com
