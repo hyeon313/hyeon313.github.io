@@ -9,6 +9,7 @@ sidebar_link: true
 ![profile](https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/profile.jpg)
 
 <!--<img src="_images/profile.jpg" alt="profile">-->
+<img src="https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/profile.jpg">
 <ul>
   <li>Name: JiHyeon-Lee</li>
   <li>Email: ice6723@naver.com</li>
