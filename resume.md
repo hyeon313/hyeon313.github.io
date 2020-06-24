@@ -18,7 +18,7 @@ sidebar_link: true
   <dt>CONTACT</dt>
   <dd>Email: ice6723@naver.com</dd>
   <dd>github: https://github.com/hyeon313</dd>
-  <dd>birth: 1997.3.13</dd>
+  <dd>birthday: 1997.3.13</dd>
   
   <dt>OBJECTIVE</dt>
   <dd>career goal: A.I Developer and Data Scientist</dd>
