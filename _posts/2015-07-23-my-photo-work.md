@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Photo Work in 2015.7.23.
+tags: photo
 ---
 
 ### Images
