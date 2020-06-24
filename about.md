@@ -9,26 +9,10 @@ sidebar_link: true
 <!--<img src="_images/profile.jpg" alt="profile">-->
 <!--<img src="https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/profile.jpg">-->
 
-![profile](https://raw.githubusercontent.com/hyeon313/hyeon313.github.io/master/_images/profile.jpg)
+![profile_2](https://github.com/hyeon313/hyeon313.github.io/blob/master/_images/profile_2.JPG?raw=true)
 
-
-* Name: JiHyeon-Lee
-
-<d1>
-  <dt>CONTACT</dt>
-  <dd>Email: ice6723@naver.com</dd>
-  <dd>github: https://github.com/hyeon313</dd>
-  
-  <dt>EDUCATION</dt>
-    <dd>2016-present</dd>
-    <dd>Kyungil university</dd>
-  
-  <dt>SKILLS</dt>
-    <dd>C++</dd>
-    <dd>Python</dd>
-    <dd>canon DSLR</dd>
-    <dd>Adobe Photoshop</dd>
-    <dd>Adobe AfterEffects</dd>
-    <dd>Adobe PrimierPro</dd>
-</d1>
-
+I am 24 years old living in Korea.
+I'm currently majoring in computer engineering at Kyungil University and studying artificial intelligence.
+I once majored in photography.
+This blog is a record of my work.
+Thank you for coming to my blog.
