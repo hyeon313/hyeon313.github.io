@@ -14,10 +14,6 @@ sidebar_link: true
 
 * Name: JiHyeon-Lee
 
-* Email: ice6723@naver.com
-* github: https://github.com/hyeon313
-
-
 <d1>
   <dt>CONTACT</dt>
   <dd>Email: ice6723@naver.com</dd>
