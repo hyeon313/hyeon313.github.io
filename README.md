@@ -1,5 +1,8 @@
 https://hyeon313.github.io/
 
+참고할만한 깃블로그
+https://yaboong.github.io/
+
 # Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
