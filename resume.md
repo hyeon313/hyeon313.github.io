@@ -22,13 +22,15 @@ sidebar_link: true
   
   <dt>OBJECTIVE</dt>
   <dd>career goal: A.I Developer and Data Scientist</dd>
+  <dd>Seeking a position programming</dd>
   
   <dt>EDUCATION</dt>
-  <dd>Major in Computer Engineering             Kyungil university    2016~</dd>
-  <dd>Major in Photography and Motion-picture   Kyungil university    2016~2019</dd>
-  <dd>                                          Seokang high school   2013-2015</dd>
+  <dd>Major in Photography and Motion-picture, Computer Engineering   Kyungil university    2016~2019</dd>
+  <dd>                                                                Seokang high school   2013-2015</dd>
   
-  
+  <dt>EXPERICENCE</dt>
+    <dd>2ver-Media field practice 2019-8(month)</dd>
+    
   <dt>SKILLS</dt>
     <dd>C++</dd>
     <dd>Python</dd>
