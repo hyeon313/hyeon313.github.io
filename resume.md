@@ -25,7 +25,7 @@ sidebar_link: true
   <dd>Seeking a position programming</dd>
   
   <dt>EDUCATION</dt>
-  <dd>Major in Photography and Motion-picture, Computer Engineering   Kyungil university    2016~2019</dd>
+  <dd>Major in Photography and Motion-picture, Computer Engineering   Kyungil university    2016~</dd>
   <dd>                                                                Seokang high school   2013-2015</dd>
   
   <dt>EXPERICENCE</dt>
