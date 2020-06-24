@@ -18,10 +18,12 @@ sidebar_link: true
   <dt>CONTACT</dt>
   <dd>Email: ice6723@naver.com</dd>
   <dd>github: https://github.com/hyeon313</dd>
+<tr>
   
   <dt>EDUCATION</dt>
     <dd>2016-present</dd>
     <dd>Kyungil university</dd>
+  <tr>
   
   <dt>SKILLS</dt>
     <dd>C++</dd>
@@ -30,5 +32,6 @@ sidebar_link: true
     <dd>Adobe Photoshop</dd>
     <dd>Adobe AfterEffects</dd>
     <dd>Adobe PrimierPro</dd>
+    <tr>
 </d1>
 
