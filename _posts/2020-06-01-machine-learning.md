@@ -22,7 +22,7 @@ categories: ArtificialIntelligence
     </td>   
   </tr>
   <tr style="border: solid 1px ;">     
-    <th style="border: solid 1px ;">      Textarea     </th>     
+    <th style="border: solid 1px ;">회귀</th>     
     <td style="border: 1px solid;">       <textarea name="content" rows="10" style="width:100%;"></textarea>     
     </td>   
   </tr> 
