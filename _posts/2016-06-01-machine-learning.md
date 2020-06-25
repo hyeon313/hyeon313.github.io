@@ -3,8 +3,8 @@ layout: post
 title: Machine Learning
 tags: 
   - machinelearning
-  - A.I
-categories: A.I
+  - ArtificialIntelligence
+categories: ArtificialIntelligence
 ---
 
 # 기계 학습
