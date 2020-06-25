@@ -3,4 +3,4 @@ layout: category
 title: Python
 ---
 
-This is Python. + A.I
+This is Python.
