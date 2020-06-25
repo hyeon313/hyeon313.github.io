@@ -17,6 +17,7 @@ sidebar_link: true
 <d1>
   <dt>CONTACT</dt>
   <dd>Email: ice6723@naver.com</dd>
+  <dd>Phone: 010.5807.3268</dd>
   <dd>github: https://github.com/hyeon313</dd>
   <dd>birthday: 1997.3.13</dd>
   
