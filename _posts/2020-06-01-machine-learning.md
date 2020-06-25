@@ -65,6 +65,29 @@ SVM
 변수 상관관계 함수표현(값->분석)
 
 
+
+<table style="border: 1px solid; border-collapse: collapse;">   
+  <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">인공신경망 측면</th>
+    <td style="border: 1px solid;">
+     CNN
+    </td>
+    <td style="border: 1px solid;">
+     RNN
+    </td>   
+  </tr>
+  <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">벡터기반 측면</th>
+    <td style="border: 1px solid;">
+     독립 변수 기반 분석
+    </td>
+    <td style="border: 1px solid;">
+     종속 변수 기반 분석
+    </td>   
+  </tr>
+</table>
+
+
+
+
 ### 비지도 학습
 클러스터링
 
