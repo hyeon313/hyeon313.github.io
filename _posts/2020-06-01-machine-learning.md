@@ -62,25 +62,25 @@ SVM
 
 회귀분석
 
-변수 상관관계 함수표현(값->분석)
+변수 상관관계 함수표현(
 
 
 
 <table style="border: 1px solid; border-collapse: collapse;">   
   <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">인공신경망 측면</th>
     <td style="border: 1px solid;">
-     CNN
+     CNN: 이미지 기반 특징 추출, 차원축소 인식, 예측
     </td>
     <td style="border: 1px solid;">
-     RNN
+     RNN: 현재 과거 data고려, 순차 데이터 처리 순환 신경망
     </td>   
   </tr>
   <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">벡터기반 측면</th>
     <td style="border: 1px solid;">
-     독립 변수 기반 분석
+     SVM: 분류기 class 분류 시 사용
     </td>
     <td style="border: 1px solid;">
-     종속 변수 기반 분석
+     회귀 분석: 변수 상관관계 함수 표현(값->분석)
     </td>   
   </tr>
 </table>
