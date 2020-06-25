@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Function
+title: Python Function
 tags: 
   - python
   - function
