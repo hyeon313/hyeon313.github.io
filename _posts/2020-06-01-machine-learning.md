@@ -13,9 +13,10 @@ categories: ArtificialIntelligence
 정답 필요
 
 #### 미래 데이터 예측 (분류, 회귀)
+
+기법
 <table>
   </table>
-기법
 |분류              |회귀                |
 |---                |---                |
 |이진분류           |독립 변수 기반 분석  |
