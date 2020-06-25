@@ -16,7 +16,7 @@ categories: ArtificialIntelligence
 
 기법
 <table style="border: 1px solid; border-collapse: collapse;">   
-  <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">      Text     </th>
+  <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">분류</th>
     <td style="border: 1px solid;">
       <input type="text" name="text" size="20" style="width:100%;">     
     </td>   
@@ -28,7 +28,6 @@ categories: ArtificialIntelligence
   </tr> 
 </table>
 
-출처: https://tastyloper.tistory.com/1 [tastyloper]
 |분류               |회귀                |
 |---                |---                |
 |이진분류           |독립 변수 기반 분석  |
@@ -39,19 +38,23 @@ categories: ArtificialIntelligence
 인공신경망 측면
 
 CNN
-이미지 기반 특징 추출, 차원축소 인식, 예측|
+
+이미지 기반 특징 추출, 차원축소 인식, 예측
 
 RNN 
-현재 과거 data고려, 순차 데이터 처리 순환 신경망|
+
+현재 과거 data고려, 순차 데이터 처리 순환 신경망
 
 
 벡터기반 측면
 
 SVM      
-분류기 class 분류 시 사용|
+
+분류기 class 분류 시 사용
 
 회귀분석
-변수 상관관계 함수표현(값->분석)|
+
+변수 상관관계 함수표현(값->분석)
 
 
 ### 비지도 학습
