@@ -3,5 +3,5 @@ layout: category
 title: Photo
 ---
 
-# this is my photo work
----
+This is my photo work
+
