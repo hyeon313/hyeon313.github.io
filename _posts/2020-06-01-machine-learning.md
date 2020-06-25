@@ -13,7 +13,8 @@ categories: ArtificialIntelligence
 정답 필요
 
 #### 미래 데이터 예측 (분류, 회귀)
-
+<table>
+  </table>
 기법
 |분류              |회귀                |
 |---                |---                |
