@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Photo & Video
+title: Photo
 ---
