@@ -18,17 +18,25 @@ categories: ArtificialIntelligence
 <table style="border: 1px solid; border-collapse: collapse;">   
   <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">분류</th>
     <td style="border: 1px solid;">
-      <input type="text" name="text" size="20" style="width:100%;">     
+     이진분류
+    </td>
+    <td style="border: 1px solid;">
+     다중분류
     </td>   
   </tr>
-  <tr style="border: solid 1px ;">     
-    <th style="border: solid 1px ;">회귀</th>     
-    <td style="border: 1px solid;">       <textarea name="content" rows="10" style="width:100%;"></textarea>     
+  <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">회귀</th>
+    <td style="border: 1px solid;">
+     독립 변수 기반 분석
+    </td>
+    <td style="border: 1px solid;">
+     종속 변수 기반 분석
     </td>   
-  </tr> 
+  </tr>
 </table>
 
-|분류               |회귀                |
+
+
+|분류              |회귀                |
 |---                |---                |
 |이진분류           |독립 변수 기반 분석  |
 |다중분류           |종속 변수 기반 분석  |
