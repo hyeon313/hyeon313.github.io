@@ -68,9 +68,11 @@ SVM
 
 <table style="border: 1px solid; border-collapse: collapse;">   
   <tr style="border: solid 1px ;">     <th style="border: solid 1px ;">인공신경망 측면</th>
+    <td>CNN</td>
     <td style="border: 1px solid;">
      CNN: 이미지 기반 특징 추출, 차원축소 인식, 예측
     </td>
+    <td>RNN</td>
     <td style="border: 1px solid;">
      RNN: 현재 과거 data고려, 순차 데이터 처리 순환 신경망
     </td>   
