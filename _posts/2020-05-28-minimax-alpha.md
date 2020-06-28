@@ -3,7 +3,7 @@ layout: post
 title: minimax-alpha
 tags: 
   - 지능형시스템
-  - 과제
+  - minimax-alpha
 categories: ArtificialIntelligence
 ---
 
