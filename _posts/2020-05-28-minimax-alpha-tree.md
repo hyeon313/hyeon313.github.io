@@ -1,6 +1,6 @@
 ---
 layout: post
-title: minimax-alpha
+title: minimax-alpha-tree
 tags: 
   - 지능형시스템
   - 과제
