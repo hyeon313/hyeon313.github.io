@@ -6,7 +6,7 @@ https://ryan-han.com/
 
 # 수정 중
 1. favicon(웹페이지에 접속했을때, 상단 탭에 보여지는 아이콘을 일컫는다.)을 내가 원하는 파일로 바꾸기
-~~2. 방문자 수 (구글 analytics)~~
+2. ~~방문자 수 (구글 analytics)~~
  > https://khbrst.github.io/dev/apply-dynamic-features-to-github-pages/
 3. 댓글
 4. 포털 사이트에 노출
