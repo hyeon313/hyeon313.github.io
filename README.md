@@ -16,6 +16,8 @@ https://ryan-han.com/
 
 > 구글 서치 등록시 왼쪽이 아닌 오른쪽에 url등록하기
 
+> https://search.google.com/search-console/about
+
 > https://imweb.me/faq?mode=view&category=29&category2=35&idx=15573
 
  - 포스트 작성시
