@@ -4,8 +4,8 @@ title: way
 sidebar_link: true
 ---
 
-- markdown 
-https://steemit.com/kr/@nand/markdown
+- markdown 문법 참고 
+> https://steemit.com/kr/@nand/markdown
 
 ## 1. favicon 변경
 - (웹페이지에 접속했을때, 상단 탭에 보여지는 아이콘을 일컫는다.)을 내가 원하는 파일로 바꾸기
