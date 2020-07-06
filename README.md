@@ -9,10 +9,12 @@ https://ryan-han.com/
 2. ~~방문자 수 (구글 analytics)~~
  > https://khbrst.github.io/dev/apply-dynamic-features-to-github-pages/
 3. 댓글
-4. 포털 사이트에 노출
+4. ~~포털 사이트에 노출~~
 > https://chansdesign.tistory.com/78
 
 > http://jinyongjeong.github.io/2017/01/13/blog_make_searched/
+
+> 구글 서치 등록시 왼쪽이 아닌 오른쪽에 url등록하기
 
 ----
 # Hydeout
