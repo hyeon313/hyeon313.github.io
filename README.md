@@ -16,6 +16,14 @@ https://ryan-han.com/
 
 > 구글 서치 등록시 왼쪽이 아닌 오른쪽에 url등록하기
 
+ - 포스트 작성시
+```
+lastmod : 2016-03-15 12:00:00
+sitemap :
+  changefreq : daily
+  priority : 1.0
+```  
+
 ----
 # Hydeout
 
