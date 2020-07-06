@@ -19,7 +19,7 @@ sidebar_link: true
 ## 3. 댓글
 
 ---
-## 4.포털 사이트에 노출 20.7.6.
+## 4. ~~포털 사이트에 노출~~ 20.7.6.
 
 > https://chansdesign.tistory.com/78
 
