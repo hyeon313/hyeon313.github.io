@@ -1,6 +1,6 @@
 ---
 layout: page
-title: zway
+title: way
 sidebar_link: true
 ---
 
